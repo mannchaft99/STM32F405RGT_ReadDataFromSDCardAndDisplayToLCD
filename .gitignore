@@ -1,0 +1,66 @@
+Debug/*
+!Debug/*.hex
+!Debug/*.elf
+!Debug/*.map
+.settings
+
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.ko
+*.obj
+
+# Linker output
+*.ilk
+*.exp
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+
+/MDK-ARM/DebugConfig
+*.TMP
+MDK-ARM/EventRecorderStub.scvd
+dfu
+*.pyc
+.vscode
+fw_unit_test_report
+venv
+
+*.uvprojx
+*.uvguix.*
+.uvoptx
