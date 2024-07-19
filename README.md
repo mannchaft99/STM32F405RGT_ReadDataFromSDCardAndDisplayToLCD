@@ -1,3 +1,6 @@
-# Lab_SDcard_LCD
-Release
-v0.0.1: read 1 file and display on LCD
+Đọc file text trong thẻ nhớ từ mạch thẻ nhớ.
+Hiển thị file text đó lên LCD.
+
+
+
+
